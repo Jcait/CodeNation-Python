@@ -6,7 +6,7 @@ sentence.
 
 ## Step one
 
-Create the Variables to store the data
+Create the variables to store the data.
 
 ```python
 my_name=  "JJ"
@@ -16,8 +16,8 @@ fave_colour = "Blue"
 
 ## Step Two
 
-Print the variables in a complete sentence using string interpolation with the prefix f
-for example f("STRING{VARIABLE}MORESTRING")
+Print the variables in a complete sentence using string interpolation with the prefix f.
+for example, f("STRING{VARIABLE}MORESTRING")
 
 ```python
 my_name=  "Josh"

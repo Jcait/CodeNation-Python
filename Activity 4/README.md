@@ -58,19 +58,25 @@ spaces = [" ", " ", " O ", " X ", " ", " X ", " X ", " ", " O "]
 
 ## Step 3
 
-We now print the filled grid with the f method syntax as requested above Since I'm using the array method it can be quite confusing to look at. as it works we only need to edit the middle symbols index of each group of 3 to keep the format.
+We now print the filled grid with the f method syntax as requested above. Since I'm using the array method, it can be quite confusing to look at. As it works, we only need to edit the middle symbol index of each group of 3 to keep the format.
 
 ```python
 symbols = [ "O", "X", " "]
 print(f"{symbols[2]}{v_line}{symbols[2]}{v_line}{symbols[2]}")
+# Edit Below
 print(f"{symbols[2]}{v_line}{symbols[0]}{v_line}{symbols[1]}")
+# Edit Above
 print(f"{symbols[2]}{v_line}{symbols[2]}{v_line}{symbols[2]}")
 print(h_line)
 print(f"{symbols[2]}{v_line}{symbols[2]}{v_line}{symbols[2]}")
+# Edit Below
 print(f"{symbols[2]}{v_line}{symbols[1]}{v_line}{symbols[2]}")
+# Edit Above
 print(f"{symbols[2]}{v_line}{symbols[2]}{v_line}{symbols[2]}")
 print(h_line)
 print(f"{symbols[2]}{v_line}{symbols[2]}{v_line}{symbols[2]}")
+# Edit Below
 print(f"{symbols[1]}{v_line}{symbols[2]}{v_line}{symbols[2]}")
+# Edit Above
 print(f"{symbols[2]}{v_line}{symbols[2]}{v_line}{symbols[2]}")
 ```
