@@ -11,4 +11,6 @@ Day 1
 - Activity 3
   - [README.md](./Activity%203/README.md)
 - Activity 4
-  - [README.md](./Activity%204/README.md))
+  - [README.md](./Activity%204/README.md)
+- Activity 5
+  - [README.md](./Activity%205/README.md)
