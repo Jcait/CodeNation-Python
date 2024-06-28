@@ -34,3 +34,5 @@ print(new_greet)
 
 print(earth_greeting.upper())
 print("    Hello Earthling, do not be afraid!".upper())
+
+print(earth_greeting)

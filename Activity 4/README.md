@@ -58,7 +58,7 @@ spaces = [" ", " ", " O ", " X ", " ", " X ", " X ", " ", " O "]
 
 ## Step 3
 
-We now print the filled grid with the f method syntax as requested above Since I'm using the array method it can be quite confusing to look at
+We now print the filled grid with the f method syntax as requested above Since I'm using the array method it can be quite confusing to look at. as it works we only need to edit the middle symbols index of each group of 3 to keep the format.
 
 ```python
 symbols = [ "O", "X", " "]
