@@ -6,3 +6,5 @@ Day 1
 
 - Activity 1
   - [README.md](./Activity%201/README.md)
+- Activity 2
+  - [README.md](./Activity%202/README.md)
