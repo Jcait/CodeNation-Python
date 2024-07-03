@@ -19,6 +19,8 @@ I am practicing my documentation by supplementing the codenation Activities with
 
 - Activity 1
   - [README.md](./Day-2/Activity_1/README.md)
+- Challenge
+  - [README.md](./Day-2/Challenge1/README.md)
 
 ### Day 3
 
